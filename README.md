@@ -1,7 +1,12 @@
-<div align="center">
-  <h1>Aiko</h1>
-  <p><em>Refined icons for the AI era.</em></p>
-</div>
+<p align="center">
+  <img src="assets/logo.svg" width="128" />
+</p>
+
+<h1 align="center">Aiko</h1>
+
+<p align="center">
+  <em>Refined icons for the AI era.</em>
+</p>
 
 <p align="center">
     <a href="https://twitter.com/HiTw93" target="_blank">
@@ -11,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="image.png" width=800 />
+    <img src="assets/preview.png" width=800 />
 </p>
 
 ## Features
