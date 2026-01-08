@@ -435,8 +435,13 @@
     }
 
     @media (max-width: 768px) {
+      :root {
+        --navbar-height-mobile: 104px;
+        /* navbar height when search bar wraps to new line */
+      }
+
       .navbar {
-        padding: 0 16px;
+        padding: 12px 16px 0;
         flex-wrap: wrap;
         /* Allow search to drop down */
         height: auto;
@@ -475,11 +480,13 @@
       }
 
       main {
-        padding: calc(var(--navbar-height) + 1rem) 1rem 1rem;
+        padding: calc(var(--navbar-height-mobile) + 1rem) 1rem 1rem;
       }
 
       .category-header {
-        padding: 1rem 0 0.75rem;
+        position: sticky;
+        top: var(--navbar-height-mobile);
+        padding: 0.5rem 0 0.5rem;
         margin-top: -1rem;
       }
     }
